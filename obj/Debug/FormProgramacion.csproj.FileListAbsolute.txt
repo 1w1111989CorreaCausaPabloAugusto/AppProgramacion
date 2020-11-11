@@ -57,11 +57,8 @@ C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\bin\Debug\FormPrograma
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Peliculas.resources
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.frmCinema.resources
-C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Generos.resources
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Pagos.resources
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Periodos.resources
-C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Reservas.resources
-C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Tickets.resources
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Properties.Resources.resources
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.Clientes.resources
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.csproj.GenerateResource.cache
@@ -172,4 +169,3 @@ C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\bin\Debug\pt\Microsoft
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\causa\OneDrive\Documentos\GitHub\AppProgramacion\obj\Debug\FormProgramacion.csprojAssemblyReference.cache

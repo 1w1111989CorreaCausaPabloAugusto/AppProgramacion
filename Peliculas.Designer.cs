@@ -126,7 +126,7 @@
             this.cboClasificacion.FormattingEnabled = true;
             this.cboClasificacion.Location = new System.Drawing.Point(154, 222);
             this.cboClasificacion.Name = "cboClasificacion";
-            this.cboClasificacion.Size = new System.Drawing.Size(121, 21);
+            this.cboClasificacion.Size = new System.Drawing.Size(99, 21);
             this.cboClasificacion.TabIndex = 4;
             // 
             // label5
@@ -145,7 +145,7 @@
             this.cboIdiomas.FormattingEnabled = true;
             this.cboIdiomas.Location = new System.Drawing.Point(154, 172);
             this.cboIdiomas.Name = "cboIdiomas";
-            this.cboIdiomas.Size = new System.Drawing.Size(121, 21);
+            this.cboIdiomas.Size = new System.Drawing.Size(110, 21);
             this.cboIdiomas.TabIndex = 3;
             // 
             // label3
@@ -164,7 +164,7 @@
             this.cboGenero.FormattingEnabled = true;
             this.cboGenero.Location = new System.Drawing.Point(154, 73);
             this.cboGenero.Name = "cboGenero";
-            this.cboGenero.Size = new System.Drawing.Size(121, 21);
+            this.cboGenero.Size = new System.Drawing.Size(135, 21);
             this.cboGenero.TabIndex = 1;
             // 
             // label2
@@ -226,7 +226,7 @@
             // 
             this.txtNacionalidad.Location = new System.Drawing.Point(154, 123);
             this.txtNacionalidad.Name = "txtNacionalidad";
-            this.txtNacionalidad.Size = new System.Drawing.Size(121, 20);
+            this.txtNacionalidad.Size = new System.Drawing.Size(110, 20);
             this.txtNacionalidad.TabIndex = 2;
             // 
             // groupBox1

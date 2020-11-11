@@ -149,20 +149,17 @@ namespace FormProgramacion
 
         private void iconButton6_Click(object sender, EventArgs e)
         {
-            ActivateButton(sender, RGBColors.color6);
-            AbrirFormularioHijo(new Tickets());
+            
 
         }
         private void btnGenero_Click(object sender, EventArgs e)
         {
-            ActivateButton(sender, RGBColors.color7);
-            AbrirFormularioHijo(new Generos());
+            
         }
 
         private void btnReservas_Click(object sender, EventArgs e)
         {
-            ActivateButton(sender, RGBColors.color8);
-            AbrirFormularioHijo(new Reservas());
+            
         }
 
 

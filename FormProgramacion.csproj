@@ -99,12 +99,6 @@
     <Compile Include="frmCinema.Designer.cs">
       <DependentUpon>frmCinema.cs</DependentUpon>
     </Compile>
-    <Compile Include="Generos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Generos.Designer.cs">
-      <DependentUpon>Generos.cs</DependentUpon>
-    </Compile>
     <Compile Include="Pagos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,19 +111,7 @@
     <Compile Include="Periodos.Designer.cs">
       <DependentUpon>Periodos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Reservas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Reservas.Designer.cs">
-      <DependentUpon>Reservas.cs</DependentUpon>
-    </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
-    <Compile Include="Tickets.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Tickets.Designer.cs">
-      <DependentUpon>Tickets.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Clientes.cs">
@@ -150,22 +132,13 @@
     <EmbeddedResource Include="frmReporteClientes.resx">
       <DependentUpon>frmReporteClientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Generos.resx">
-      <DependentUpon>Generos.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Pagos.resx">
       <DependentUpon>Pagos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Periodos.resx">
       <DependentUpon>Periodos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Reservas.resx">
-      <DependentUpon>Reservas.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="rptClientes.rdlc" />
-    <EmbeddedResource Include="Tickets.resx">
-      <DependentUpon>Tickets.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
