@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//111995 - Romero Luna Carmela.
+//111942 - Ismael Zamuz. 
+//111947 - Sebastian Leyria.
+//111989 - Correa Causa Pablo.
 namespace FormProgramacion
 {
     static class Program
